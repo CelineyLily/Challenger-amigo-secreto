@@ -13,4 +13,12 @@ Cuando esten todos añadidos, puedes sortear al ganador presionando el boton "So
  El sistema no acepta nombres repetidos.
  El sistema no discrimina entre minúsculas o mayúsculas.
   
+	Tecnología utilizada
+ - javaScript
+ - HTML
+ - CSS
 
+	Autores del proyecto
+- Código JS : Constanza
+- Formato HTML : AluraLatam
+- CSS : AluraLatam
