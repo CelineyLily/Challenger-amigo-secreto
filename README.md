@@ -12,13 +12,17 @@ Cuando esten todos añadidos, puedes sortear al ganador presionando el boton "So
  Es posible que presiones anadir o sortear amigo sin haber ingresado nombres, si esto ocurre el sistema te dará un mensaje. Solo debes leerlo y dar aceptar. Con ello podras ir ingresando la lista de amigos para el sorteo.
  El sistema no acepta nombres repetidos.
  El sistema no discrimina entre minúsculas o mayúsculas.
-  
+
+	
 	Tecnología utilizada
- - javaScript
- - HTML
- - CSS
+ JavaScript      |   HTML           |  CSS
+
+
 
 	Autores del proyecto
 - Código JS : Constanza
 - Formato HTML : AluraLatam
 - CSS : AluraLatam
+ 
+
+
