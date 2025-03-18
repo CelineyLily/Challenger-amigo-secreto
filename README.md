@@ -18,7 +18,6 @@ Cuando esten todos añadidos, puedes sortear al ganador presionando el boton "So
  JavaScript      |   HTML           |  CSS
 
 
-
 	Autores del proyecto
 - Código JS : Constanza
 - Formato HTML : AluraLatam
